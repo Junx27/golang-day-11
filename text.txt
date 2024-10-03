@@ -1,0 +1,5 @@
+Mengelola Data Karyawan
+Buatlah program Golang untuk mengelola data karyawan menggunakan struct dan method. Setiap karyawan memiliki nama, umur, dan jabatan. Implementasikan method untuk menampilkan informasi karyawan dan untuk memperbarui jabatan karyawan.
+
+2. Menghitung Luas Bentuk Geometri
+Buatlah interface Shape yang memiliki method Area(). Implementasikan interface tersebut pada struct Circle dan Rectangle untuk menghitung luas lingkaran dan persegi panjang.
